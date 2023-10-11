@@ -12,7 +12,19 @@
 
 header {}
 
-.logo-heading-wrapper {}
+.links {
+  display: flex;
+}
+
+.wholething {
+  display: flex;
+  
+
+
+}
+.logo-heading-wrapper {
+
+}
 
 header nav {}
 
